@@ -3,6 +3,6 @@ package exemple.org;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hola mundo. kk");
+        System.out.println("Hola mundo. k");
     }
 }
